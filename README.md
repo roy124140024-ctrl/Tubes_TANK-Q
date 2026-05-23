@@ -16,7 +16,7 @@ Bot alternatif dengan strategi **Opportunistic Firepower & Randomized Evasion**.
 
 ## ii. Requirement Program dan Instalasi
 * **.NET SDK** (Runtime pendukung C#)
-* [cite_start]**Robocode Tank Royale GUI & Server** 
+* **Robocode Tank Royale GUI & Server** 
 * **Robocode.TankRoyale.BotApi** (Library API)
 * **Java Runtime Environment (JRE)** (Untuk mengeksekusi server)
 
@@ -36,8 +36,17 @@ Bot alternatif dengan strategi **Opportunistic Firepower & Randomized Evasion**.
 Arahkan terminal ke dalam folder bot masing-masing, lalu jalankan perintah:
 ```bash
 dotnet run
+```
 
 ## iv. Author (Identitas Pembuat)
 * **Nama Kelompok:** TANK Q
+* **Anggota Kelompok:**
+
+Valentino Glen Lambok Munthe - 124140022
+
+Roy Kurniawan - 124140024
+
+Nazhifa Dwi Ralya - 124140042
+
 * **Program Studi:** Teknik Informatika
 * **Institusi:** Institut Teknologi Sumatera (ITERA)
