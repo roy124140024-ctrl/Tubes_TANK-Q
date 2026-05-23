@@ -1,0 +1,10 @@
+{
+  "name": "TANK_Q",
+  "version": "1.0",
+  "authors": ["TANK_Q"],
+  "description": "Greedy Target Scoring & Multi-Candidate Greedy Movement",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}

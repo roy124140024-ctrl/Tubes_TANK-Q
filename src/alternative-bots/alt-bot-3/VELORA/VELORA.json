@@ -1,0 +1,10 @@
+{
+  "name": "VELORA",
+  "version": "1.0",
+  "authors": ["TANK-Q"],
+  "description": "Opportunistic Survivalist (Greedy Firepower + Randomized Evasion)",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "BotViper",
+  "version": "1.0",
+  "authors": ["TANK Q"],
+  "description": "1v1 Duelist Specialist - Bullet Dodging & Predictive Aiming",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}
